@@ -19,6 +19,6 @@
 ### 其他
 利用python的Tkinter接口制作了界面，界面包含一个视频窗口和三个功能按键，本系统可通过两种方式下达指令。既可通过Button按钮改变全局变量data来实现指令的下达，同时还利用了Socket通信，完成局域网内的远程操控，同样可以下达指令，且利用Socket通信可以直接输入自己想要的颜色既可实现识别和抓取。
 #### 效果截图
-![blockchain](https://github.com/Forrest554/Target-Grabbing-Based-on-Raspberry/blob/master/image/arm_demon.png?raw=true)
+![blockchain](https://github.com/Forrest554/Target-Grabbing-Based-on-Raspberry/blob/master/image/demo.png?raw=true)
 ##### 设计和研发人员
 数字图像处理课程第七小组
